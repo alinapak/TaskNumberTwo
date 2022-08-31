@@ -1,0 +1,30 @@
+p {
+   text-align: center;
+}
+
+.container {
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   gap: 1em;
+   width: 25%;
+}
+
+.parent-div {
+   margin-top: 2em;
+}
+
+button {
+   background-color: rgba(207, 118, 118, 0.719);
+   border: 1px solid rgb(114, 114, 114);
+   padding: 1em;
+   border-radius: 10px;
+   color: rgb(63, 63, 63);
+}
+
+input {
+   border: 1px solid rgb(114, 114, 114);
+   padding: 1em;
+   border-radius: 10px
+}
